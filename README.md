@@ -325,7 +325,7 @@ The long-term objective is to establish ONE COMPANION as a trusted Enterprise AI
 
 | Role | Details |
 |------|---------|
-| **Name (creators)** | Sandeep & Sudharsun |
+| **Name (creator)** | Sandeep P|
 | **Project** | ONE COMPANION |
 | **Organization** | State Bank of India (SBI) Hackathon Submission |
 | **Architecture Type** | Enterprise AI Architecture Repository |
