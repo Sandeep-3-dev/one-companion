@@ -12,7 +12,7 @@ Rather than treating security as an isolated technical component, the platform e
 
 # 1. Enterprise Trust Framework
 
-ONE COMPANION is built upon a comprehensive Enterprise Trust Framework that protects customer data, enterprise intelligence, AI decision-making, and banking operations.
+ONE COMPANION establishes trust through a **layered Enterprise Trust Framework** that protects customer information, enterprise intelligence, AI decision-making, and banking operations throughout the complete customer lifecycle.
 
 The framework integrates multiple enterprise disciplines into one unified governance model:
 
@@ -29,7 +29,23 @@ Together, these disciplines establish the trust foundation required for enterpri
 
 ---
 
-# 2. Security-by-Design
+# 2. Enterprise Trust Principles
+
+The trust architecture of ONE COMPANION is built upon five fundamental principles that guide every intelligent banking interaction.
+
+| Principle | Purpose |
+|-----------|---------|
+| **Trust by Design** | Trust is embedded into the architecture from the beginning rather than added after implementation. |
+| **Customer First** | Every intelligent decision protects customer interests before business objectives. |
+| **Enterprise Accountability** | Every AI-generated action remains traceable, explainable, and governed. |
+| **Continuous Trust** | Security, privacy, governance, and compliance remain active throughout every workflow rather than only during authentication. |
+| **Responsible Innovation** | AI capabilities continuously evolve without compromising enterprise security, customer privacy, or regulatory compliance. |
+
+These principles establish the philosophical foundation upon which every enterprise control within ONE COMPANION is designed.
+
+---
+
+# 3. Security-by-Design
 
 Security is embedded into the platform architecture from the beginning rather than added during deployment.
 
@@ -48,7 +64,7 @@ Security therefore becomes an architectural characteristic of the platform rathe
 
 ---
 
-# 3. Customer Privacy Framework
+# 4. Customer Privacy Framework
 
 Customer privacy remains fundamental to every intelligent banking interaction.
 
@@ -67,7 +83,7 @@ Privacy is therefore treated as a continuous enterprise responsibility throughou
 
 ---
 
-# 4. Enterprise Data Governance
+# 5. Enterprise Data Governance
 
 Enterprise AI depends on trusted, accurate, and well-governed customer information.
 
@@ -86,7 +102,7 @@ Strong data governance ensures that every AI-driven recommendation is based on r
 
 ---
 
-# 5. Enterprise Compliance Framework
+# 6. Enterprise Compliance Framework
 
 Every intelligent workflow operates within enterprise banking regulations, internal policies, and organizational governance standards.
 
@@ -105,7 +121,7 @@ This prevents AI from generating recommendations that violate enterprise or regu
 
 ---
 
-# 6. Enterprise Risk Management
+# 7. Enterprise Risk Management
 
 Enterprise AI introduces multiple categories of organizational risk that must be continuously managed.
 
@@ -124,7 +140,7 @@ This enterprise risk model ensures that innovation never compromises customer tr
 
 ---
 
-# 7. Responsible AI Governance
+# 8. Responsible AI Governance
 
 Responsible AI ensures that intelligence remains aligned with customer interests, enterprise objectives, and regulatory expectations.
 
@@ -166,7 +182,7 @@ AI performance, governance controls, compliance status, and operational quality 
 
 ---
 
-# 8. Enterprise Trust Architecture
+# 9. Enterprise Trust Architecture
 
 Trust is enforced across every layer of the ONE COMPANION architecture.
 
@@ -194,7 +210,7 @@ Rather than protecting isolated components, this layered trust architecture prot
 
 ---
 
-# 9. Enterprise Governance Principles
+# 10. Enterprise Governance Principles
 
 ONE COMPANION follows seven enterprise governance principles.
 
@@ -240,7 +256,7 @@ Security controls and governance mechanisms continuously evolve alongside emergi
 
 ---
 
-# 10. Business Value
+# 11. Business Value
 
 The Enterprise Trust Framework enables SBI to confidently deploy Enterprise AI while protecting customers, enterprise operations, and organizational reputation.
 
