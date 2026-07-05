@@ -71,9 +71,9 @@ Enterprise services exchange information using consistent communication standard
 
 ---
 
-# 3. Enterprise API Lifecycle
+# 3. Enterprise API Request Lifecycle
 
-Every enterprise API interaction follows a governed lifecycle.
+Every enterprise API request follows a governed lifecycle.
 
 ```text
 API Request
@@ -99,7 +99,39 @@ This lifecycle ensures every enterprise interaction remains secure, traceable, r
 
 ---
 
-# 4. Enterprise API Integration Architecture
+# 4. Enterprise Integration Flow
+
+Every enterprise integration request follows a standardized governance flow before interacting with banking systems.
+
+```text
+Customer Channel
+        ↓
+Enterprise API Gateway
+        ↓
+Identity & Access Validation
+        ↓
+Enterprise Integration Layer
+        ↓
+Business Capability Services
+        ↓
+Enterprise AI Intelligence Layer
+        ↓
+Enterprise AI Decision Framework
+        ↓
+Core Banking Systems
+        ↕
+External Enterprise Services
+        ↓
+Business Response
+        ↓
+Monitoring, Audit & Logging
+```
+
+This standardized integration flow ensures every enterprise request remains secure, governed, traceable, and consistent across the entire ONE COMPANION platform.
+
+---
+
+# 5. Enterprise API Integration Architecture
 
 The Enterprise API Integration Architecture enables secure communication between AI capabilities, enterprise services, and existing banking platforms.
 
@@ -139,7 +171,7 @@ Coordinates communication between internal enterprise services, AI capabilities,
 
 ---
 
-# 5. Enterprise Integration Responsibilities
+# 6. Enterprise Integration Responsibilities
 
 To maintain a scalable and maintainable architecture, each integration component has a clearly defined responsibility.
 
@@ -156,7 +188,7 @@ This separation of responsibilities prevents tight coupling, simplifies maintena
 
 ---
 
-# 6. Enterprise API Capabilities
+# 7. Enterprise API Capabilities
 
 The Enterprise API Integration Architecture provides six core capabilities.
 
@@ -190,15 +222,13 @@ Supports coordinated execution of multiple enterprise business capabilities with
 
 ---
 
-### Enterprise Monitoring
+### Monitoring & Audit
 
-Continuously monitors API availability, operational health, integration performance, and service reliability.
+Continuously monitors API availability, integration performance, operational health, and enterprise audit activities.
 
 ---
 
-# 7. Enterprise Integration Domains
-
-The Enterprise API Integration Architecture connects multiple enterprise domains.
+# 8. Enterprise Integration Domains
 
 | Integration Domain | Purpose |
 |--------------------|---------|
@@ -212,9 +242,7 @@ The Enterprise API Integration Architecture connects multiple enterprise domains
 
 ---
 
-# 8. Enterprise API Categories
-
-The Enterprise API Integration Architecture organizes APIs according to their responsibilities.
+# 9. Enterprise API Categories
 
 | API Category | Purpose |
 |--------------|---------|
@@ -227,9 +255,7 @@ This layered API architecture improves modularity, scalability, maintainability,
 
 ---
 
-# 9. Enterprise Integration Patterns
-
-The Enterprise API Integration Architecture supports multiple integration patterns to meet diverse banking requirements.
+# 10. Enterprise Integration Patterns
 
 | Integration Pattern | Purpose |
 |---------------------|---------|
@@ -241,7 +267,7 @@ Supporting multiple integration patterns allows the platform to balance responsi
 
 ---
 
-# 10. Enterprise API Governance
+# 11. Enterprise API Governance
 
 Enterprise APIs operate within a governed integration framework.
 
@@ -262,7 +288,7 @@ Enterprise APIs evolve through controlled versioning to ensure backward compatib
 
 ---
 
-# 11. Enterprise Integration Resilience
+# 12. Enterprise Integration Resilience
 
 The Enterprise API Integration Architecture is designed to maintain reliable banking operations even when individual enterprise services become temporarily unavailable.
 
@@ -278,7 +304,7 @@ These capabilities ensure isolated integration failures do not compromise custom
 
 ---
 
-# 12. Business Value
+# 13. Business Value
 
 The Enterprise API Integration Architecture enables ONE COMPANION to integrate seamlessly with existing SBI systems while preserving enterprise stability.
 
@@ -296,9 +322,7 @@ This enables SBI to:
 
 ---
 
-# 13. Enterprise Integration Relationship
-
-The complete enterprise integration ecosystem operates as follows.
+# 14. Enterprise Integration Relationship
 
 ```text
 Customer Channels
