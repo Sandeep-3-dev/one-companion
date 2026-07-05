@@ -18,9 +18,11 @@ Customer360° is a unified enterprise intelligence model that continuously devel
 
 Instead of storing only static customer records, Customer360 combines enterprise banking information with continuously evolving AI-generated intelligence to create a living digital representation of each customer's financial journey.
 
+**Conceptually, Customer360 functions as a Digital Financial Twin of every customer, continuously reflecting their financial behaviour, preferences, financial goals, relationships, and evolving financial journey through enterprise intelligence.**
+
 As customers interact with the banking ecosystem, Customer360 continuously learns, adapts, and enriches itself, ensuring every AI-driven decision is based on the most accurate and contextual understanding of the customer.
 
-Customer360 serves as the **Single Source of Enterprise Customer Intelligence** across the entire ONE COMPANION platform.
+Customer360 serves as the **Single Source of Enterprise Customer Intelligence** and the trusted foundation for every AI-driven decision within ONE COMPANION.
 
 ---
 
@@ -42,13 +44,13 @@ Customer360 is composed of seven interconnected intelligence domains.
 
 | Intelligence Domain | Purpose |
 |---------------------|---------|
-| **Identity Intelligence** | Customer identity, KYC, demographics, authentication and profile information. |
-| **Financial Intelligence** | Accounts, transactions, loans, deposits, cards, investments and financial history. |
-| **Behavioral Intelligence** | Spending behaviour, saving habits, digital usage patterns and engagement trends. |
-| **Relationship Intelligence** | Family Banking, referrals, customer interactions and relationship history. |
-| **Predictive Intelligence** | Future financial needs, product eligibility, financial risks and AI predictions. |
-| **Preference Intelligence** | Language, communication preferences, financial goals and personalized banking preferences. |
-| **Security Intelligence** | Authentication history, trusted devices, fraud signals, login behaviour and enterprise risk indicators. |
+| **Identity Intelligence** | Customer identity, KYC, demographics, authentication, profile information, and trusted identity verification. |
+| **Financial Intelligence** | Accounts, transactions, loans, deposits, cards, investments, liabilities, assets, and complete financial history. |
+| **Behavioral Intelligence** | Spending behaviour, saving habits, digital usage patterns, financial discipline, and engagement trends. |
+| **Relationship Intelligence** | Family Banking relationships, referrals, customer interactions, engagement history, and relationship network. |
+| **Predictive Intelligence** | Future financial needs, product eligibility, financial risks, life-event predictions, and AI-generated forecasts. |
+| **Preference Intelligence** | Language, communication preferences, financial goals, product interests, and personalized banking preferences. |
+| **Security Intelligence** | Authentication history, trusted devices, fraud signals, login behaviour, enterprise risk indicators, and security confidence levels. |
 
 Together these intelligence domains establish a complete enterprise understanding of every customer rather than isolated banking information.
 
@@ -78,7 +80,7 @@ Personalized Banking Experience
 Continuous Enterprise Learning
 ```
 
-Every meaningful customer interaction contributes new intelligence back into Customer360, allowing the platform to continuously improve its understanding of every customer.
+Every meaningful customer interaction contributes new intelligence back into Customer360, allowing the platform to continuously improve its understanding of every customer throughout their banking journey.
 
 ---
 
@@ -89,11 +91,12 @@ Customer360 securely consolidates intelligence from multiple enterprise sources.
 ### Enterprise Banking Systems
 
 - Core Banking
-- Customer Information
+- Customer Information System
 - Loans
 - Deposits
 - Credit Cards
 - Investments
+- Insurance
 - KYC & Identity Services
 
 ---
@@ -105,7 +108,8 @@ Customer360 securely consolidates intelligence from multiple enterprise sources.
 - Saving habits
 - Digital engagement
 - Product utilization
-- App usage
+- Mobile app usage
+- Financial activity trends
 
 ---
 
@@ -120,7 +124,8 @@ Customer360 securely consolidates intelligence from multiple enterprise sources.
 - AI confidence scores
 - Predicted financial needs
 - Future product eligibility
-- Risk predictions
+- Financial risk predictions
+- Goal achievement probability
 
 ---
 
@@ -133,7 +138,8 @@ Customer360 securely consolidates intelligence from multiple enterprise sources.
 - Customer feedback
 - Referral participation
 - Family Banking interactions
-- Engagement activities
+- Challenges & rewards participation
+- Multilingual interactions
 
 These intelligence sources collectively create a continuously improving enterprise understanding of every customer.
 
@@ -141,7 +147,7 @@ These intelligence sources collectively create a continuously improving enterpri
 
 # 6. Customer360° Architecture Position
 
-Customer360 acts as the enterprise intelligence foundation between enterprise data and AI decision-making.
+Customer360 serves as the enterprise intelligence foundation between enterprise banking systems and AI decision-making.
 
 ```text
 Enterprise Banking Systems
@@ -155,15 +161,17 @@ AI Decision Engine
 Intelligent Banking Experiences
 ```
 
-Every AI capability retrieves customer intelligence from Customer360 before generating recommendations or making enterprise decisions, ensuring consistent customer understanding across the entire platform.
+Rather than allowing individual services to maintain independent customer information, every AI capability retrieves customer intelligence from Customer360 before generating recommendations or making enterprise decisions.
+
+This architecture guarantees consistency, personalization, governance, and enterprise-wide intelligence across the entire platform.
 
 ---
 
 # 7. Role of Customer360° in ONE COMPANION
 
-Customer360 powers every intelligent capability within the platform.
+Customer360 powers every intelligent capability within ONE COMPANION by providing a unified enterprise understanding of every customer.
 
-It provides enterprise intelligence for:
+It enables:
 
 - Intelligent customer acquisition.
 - Personalized financial recommendations.
@@ -175,8 +183,9 @@ It provides enterprise intelligence for:
 - Multilingual personalization.
 - Customer engagement strategies.
 - Enterprise decision support.
+- Continuous financial wellness monitoring.
 
-Rather than allowing individual services to maintain separate customer information, Customer360 establishes one trusted intelligence model shared across the entire enterprise ecosystem.
+Instead of every service building its own customer profile, the entire platform operates using one trusted enterprise intelligence model.
 
 ---
 
@@ -192,13 +201,13 @@ Every AI capability operates using the same trusted customer intelligence model.
 
 ### Continuous Enterprise Learning
 
-Customer intelligence continuously evolves as customer behaviour, financial needs, and engagement patterns change over time.
+Customer intelligence continuously evolves as customer behaviour, financial needs, engagement patterns, and life events change over time.
 
 ---
 
 ### AI-Augmented Understanding
 
-Customer360 combines enterprise customer data with AI-generated intelligence, enabling proactive and predictive banking experiences.
+Customer360 combines enterprise customer data with AI-generated intelligence, enabling proactive, predictive, and highly personalized banking experiences.
 
 ---
 
@@ -220,13 +229,13 @@ Customer360 enables ONE COMPANION to move beyond traditional customer records by
 
 This enables SBI to:
 
-- Deliver highly personalized banking experiences.
+- Deliver hyper-personalized banking experiences.
 - Improve AI decision accuracy.
-- Strengthen customer engagement.
+- Strengthen long-term customer engagement.
 - Enable proactive financial guidance.
 - Establish a single trusted customer intelligence model across the enterprise.
-- Improve consistency across all intelligent banking services.
-- Build stronger long-term customer relationships.
+- Improve consistency across every intelligent banking service.
+- Enable a continuously evolving **Digital Financial Twin** for every customer, supporting lifelong personalized banking experiences.
 
 ---
 
@@ -236,4 +245,4 @@ Customer360 establishes **what the platform knows** about every customer.
 
 The next document explains **how the Enterprise AI Intelligence Layer transforms this intelligence into reasoning, planning, autonomous workflow orchestration, and intelligent decision-making through Agentic AI.**
 
-Together, Customer360 and the Enterprise AI Intelligence Layer form the cognitive foundation of ONE COMPANION.
+Together, **Customer360** and the **Enterprise AI Intelligence Layer** form the cognitive foundation of ONE COMPANION.
